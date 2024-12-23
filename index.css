@@ -72,7 +72,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: rgb(9,97,146);
+    background: rgb(9,97,146) !important;
     overflow-x: hidden;
 }
 
