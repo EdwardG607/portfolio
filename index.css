@@ -35,10 +35,10 @@
     --line-height-small: 1.2;
 
     --black: #000;
-    --pink: #ff3258;
+    --pink: #0e8c7f;
     --white: #f0e9f2;
     --white-1: #e5e5e6da;
-
+    --blue: rgb(9,97,146);
 
     --container-max-width: 1180px;
     --container-normal-width: 800px;
@@ -72,7 +72,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: rgb(9,97,146) !important;
+    background: var(--blue);
     overflow-x: hidden;
 }
 
